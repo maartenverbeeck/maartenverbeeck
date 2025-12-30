@@ -1,8 +1,21 @@
-### Here is what I'm working on! 👋
+### 👋 Hi, I’m Maarten Verbeeck
 
-- 🔭 I’m currently working in the cloud and on servers
-- 🌱 I’m currently learning Node.js and React 
-- 💬 Ask me about DevOps
-- 📫 How to reach me: X
-- ⚡ Fun fact: I'm also a photographer
+DevOps engineer building reliable systems and infrastructure.
 
+🔭 Currently working with **cloud platforms & servers**  
+🌱 Learning **Node.js** and **React** to broaden my toolkit  
+💬 Ask me about **DevOps, infrastructure, automation, and scalable systems**  
+📫 Find me on **X**  
+📸 Photographer when not in terminal
+
+---
+
+### 🛠 Tech & Tools
+
+**Cloud:** AWS
+**DevOps:** Docker, Kubernetes, Terraform  
+**Languages:** JavaScript, Bash, Python
+
+---
+
+⭐ Thanks for stopping by!
